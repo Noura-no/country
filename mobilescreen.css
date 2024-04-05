@@ -1,0 +1,14 @@
+body{
+    background-size: cover;
+    overflow: auto;
+    
+}
+section{
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+div{
+    width: 400px;
+    margin: 100px auto;
+}
